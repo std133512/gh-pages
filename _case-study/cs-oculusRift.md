@@ -6,43 +6,43 @@
 Ένα πρότυπο αλληλεπίδρασης είναι μια έννοια αλληλεπίδρασης υψηλού επιπέδου που μπορεί να χρησιμοποιηθεί ξανά και ξανά σε διαφορετικές εφαρμογές για την επίτευξη κοινών στόχων χρηστών. Μια τεχνική αλληλεπίδρασης είναι μια πιο συγκεκριμένη εφαρμογή ενός μοτίβου αλληλεπίδρασης. Παρόμοιες τεχνικές αλληλεπίδρασης ομαδοποιούνται με το ίδιο πρότυπο αλληλεπίδρασης όπως φαίνεται και στον παρακάτω πίνακα.
 
 
-< table >
-< tr >
-< th > Selection <  / th >
-< th > Manipulation <  / th >
-< th > ViewPoint Control <  / th >
-< th > Indirect Control <  / th >
-< th > Compound <  / th >
-<  / tr >
-< tr >
-< td > Hand Selection <  / td >
-< td > Direct Hand <  / td >
-< td > Walking <  / td >
-< td > Widgets & Panels <  / td >
-< td > Pointing hand <  / td >
-<  / tr >
-< tr >
-< td > Pointing <  / td >
-< td > Proxy <  / td >
-< td > Steering <  / td >
-< td > Non Spatial <  / td >
-< td > World in Miniature <  / td >
-<  / tr >
-< tr >
-< td > Image - Plane <  / td >
-< td > 3D Tool <  / td >
-< td > 3D Multi Touch <  / td >
-< td >  -  <  / td >
-< td > MultiModal <  / td >
-<  / tr >
-< tr >
-< td > Volume Based <  / td >
-< td >  -  <  / td >
-< td > Automated <  / td >
-< td >  -  <  / td >
-< td >  -  <  / td >
-<  / tr >
-<  / table >
+<table>
+   <tr>
+      <th>Selection</th>
+      <th>Manipulation</th>
+      <th>ViewPoint Control</th>
+      <th>Indirect Control</th>
+      <th>Compound</th>
+   </tr>
+   <tr>
+      <td>  Hand Selection</td>
+      <td>  Direct Hand  </td>
+      <td>	Walking        	</td>
+      <td>	Widgets & Panels</td>
+      <td>	 Pointing hand        </td>
+   </tr>
+   <tr>
+      <td>  Pointing  	</td>
+      <td>	 Proxy		</td>
+      <td>	  Steering		</td>
+      <td>	 Non Spatial	</td>
+      <td>	 World in Miniature   </td>
+   </tr>
+   <tr>
+      <td>  Image-Plane	</td>
+      <td>	 3D Tool	</td>
+      <td>	 3D Multi Touch	</td>
+      <td> 		-		 	</td>
+      <td>	 MultiModal	 	      </td>
+   </tr>
+   <tr>
+      <td>  Volume Based	</td>
+      <td>	 		-	</td>
+      <td>	 Automated		</td>
+      <td> 		-		 	</td>
+      <td>	-			          </td>
+   </tr>
+</table>
 
 ## Πρότυπα αλληλεπίδρασης
 | Selection   |      Manipulation      |  ViewPoint Control       |		Indirect Control | Compound 
