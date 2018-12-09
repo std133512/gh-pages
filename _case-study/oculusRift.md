@@ -8,8 +8,8 @@ categories:
   - case-study
   - definition
 tags:
-  - moding
-  - making
+  - vr
+  - virtual reality
   - oculus
 gallery:
   - image_url: /images/OculusRift-SoldierTraining.jpg
